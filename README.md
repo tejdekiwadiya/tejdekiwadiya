@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejdekiwadia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejdekiwadiya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tejdekiwadiya) 
-[![LeetCode user tejdekiwadiya](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejdekiwadiya&logo=leetcode&logoColor=yellow)](https://leetcode.com/tejdekiwadiya/)
+[![LeetCode user tejdekiwadiya](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejdekiwadiya&logo=leetcode&logoColor=yellow)](https://leetcode.com/tejdekiwadiya/)
 [![LeetCode user tejdekiwadiya](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejdekiwadiya&logo=leetcode&logoColor=yellow)](https://leetcode.com/tejdekiwadiya/)
 
 # 💻 Tech Stack:
