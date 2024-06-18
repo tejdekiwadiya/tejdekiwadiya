@@ -9,7 +9,7 @@
 <!--[![](https://visitcount.itsvg.in/api?id=tejdekiwadiya&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejdekiwadiya&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://visitcount.itsvg.in/api?id=tejdekiwadiya&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
