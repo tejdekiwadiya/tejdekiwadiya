@@ -8,4 +8,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tejdekiwadiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
