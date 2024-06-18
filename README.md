@@ -8,4 +8,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tejdekiwadiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
